@@ -1,6 +1,6 @@
 celery
 PIL
-Django==2.2.10
+Django==2.2.27
 PyMySQL==0.9.3
 pytz==2019.3
 sqlparse==0.3.1
